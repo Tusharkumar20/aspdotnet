@@ -1,0 +1,7 @@
+D:\visual studios\project\WebApplication1\bin\Release\net10.0\publish\WebApplication1.exe
+D:\visual studios\project\WebApplication1\bin\Release\net10.0\publish\appsettings.Development.json
+D:\visual studios\project\WebApplication1\bin\Release\net10.0\publish\appsettings.json
+D:\visual studios\project\WebApplication1\bin\Release\net10.0\publish\WebApplication1.dll
+D:\visual studios\project\WebApplication1\bin\Release\net10.0\publish\WebApplication1.deps.json
+D:\visual studios\project\WebApplication1\bin\Release\net10.0\publish\WebApplication1.runtimeconfig.json
+D:\visual studios\project\WebApplication1\bin\Release\net10.0\publish\WebApplication1.pdb
